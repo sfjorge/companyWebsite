@@ -660,8 +660,8 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 4.4375rem;
-	height: 1.75rem;
+  width: 18rem;
+	height: 8rem;
 }
 
 .navbar-custom .navbar-brand.logo-text {
@@ -969,6 +969,14 @@ input[type='checkbox'] {
 	margin-bottom: 1.5rem;
 }
 
+.title-content{
+	width: 100%;
+	max-width: 560px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	line-height: 1;
+}
 
 /***********************************/
 /*     08. Features Lightboxes     */
